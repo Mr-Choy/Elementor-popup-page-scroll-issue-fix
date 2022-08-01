@@ -1,4 +1,4 @@
-A temporary solution until the Elementor official bug is resolved.
+A temporary solution until the Elementor official bug is resolved?
 
 # Elementor-popup-page-scroll-issue-fix
 
